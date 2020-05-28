@@ -1,2 +1,2 @@
 # MVC-Movie-Website
-An ASP.NET MVC website build with C#.
+An ASP.NET MVC website built with C#.
